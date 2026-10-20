@@ -1,0 +1,7 @@
+# Archivos locales de Power BI y del sistema
+*.pbit.tmp
+*.pbix.tmp
+*.lock
+Thumbs.db
+desktop.ini
+.DS_Store
